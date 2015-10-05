@@ -4,11 +4,15 @@ header{
 	margin-right: auto; 
 	border-radius: 2px;
 	width: 100%; 
-	height: 60px; 
+	height: 200px; 
 	font-size: 30px; 
 	font-family: arial;
-	text-align: center;
-	background: #CCC;
+	color: white;
+	background-image: url('boom.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	
+	
 	
 	
 }
@@ -42,8 +46,8 @@ nav ul li a {
 	font-family: arial;
 	text-align: center;
 	text-decoration: none;
-	color: black;
-	background: #CCC;
+	color: white;
+	background: #663300;
 	border-radius: 2px;
 }
 
@@ -83,10 +87,10 @@ article{
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
-	color: black;
+	color: white;
 	border-radius: 2px;
 	display: inline-block;
-	background-color: #CCC;
+	background-color: #663300;
 	
 }
 
@@ -128,15 +132,17 @@ footer {
 	border-color: #CCC;
 	margin-top: auto;
 	font-family: arial;
+	color: white;
 	text-align: center;
 	border-radius: 2px;
 	display: inline-block;
-	background-color: #CCC;
+	background-color: #663300;
 	
 }
 
 body{
-	background-color: #463E3F;
+	background-image: url('wood.jpg');
+	background-repeat: no-repeat;
 }
 
 .mao {
@@ -147,10 +153,10 @@ body{
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
-	color: black;
+	color: white;
 	border-radius: 2px;
 	display: inline-block;
-	background-color: #ccc;
+	background-color: #663300;
 }
 
 .jesper {
@@ -161,10 +167,10 @@ body{
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
-	color: black;
+	color: white;
 	border-radius: 2px;
 	display: inline-block;
-	background-color: #ccc;
+	background-color: #663300;
 }
 
 .laffy {
@@ -175,10 +181,10 @@ body{
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
-	color: black;
+	color: white;
 	border-radius: 2px;
 	display: inline-block;
-	background-color: #ccc;
+	background-color: #663300;
 }
 
 .andreas {
@@ -189,10 +195,10 @@ body{
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
-	color: black;
+	color: white;
 	border-radius: 2px;
 	display: inline-block;
-	background-color: #ccc;
+	background-color: #663300;
 }
 
 
