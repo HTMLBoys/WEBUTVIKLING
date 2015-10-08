@@ -142,7 +142,7 @@ footer {
 
 body{
 	background-image: url('wood.jpg');
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 }
 
 .mao {
@@ -201,4 +201,17 @@ body{
 	background-color: #663300;
 }
 
+.Glenn {
+	margin-top: 50px; 
+	border: #CCC;
+	width: 600px;
+	height: auto; 
+	margin-left: 500px; 
+	font-family: arial;
+	font-size: 25px;
+	color: white;
+	border-radius: 2px;
+	display: inline-block;
+	background-color: #663300;
+}
 
