@@ -2,7 +2,7 @@ header{
 	margin-top:30px;
 	margin-left: auto; 
 	margin-right: auto; 
-	border-radius: 2px;
+	border-radius: 15px;
 	width: 100%; 
 	height: 200px; 
 	font-size: 30px; 
@@ -48,7 +48,7 @@ nav ul li a {
 	text-decoration: none;
 	color: white;
 	background: #663300;
-	border-radius: 2px;
+	border-radius: 15px;
 }
 
 nav ul li ul{
@@ -88,7 +88,7 @@ article{
 	font-family: arial;
 	font-size: 25px;
 	color: white;
-	border-radius: 2px;
+	border-radius: 15px;
 	display: inline-block;
 	background-color: #663300;
 	
@@ -134,7 +134,7 @@ footer {
 	font-family: arial;
 	color: white;
 	text-align: center;
-	border-radius: 2px;
+	border-radius: 15px;
 	display: inline-block;
 	background-color: #663300;
 	
@@ -148,13 +148,13 @@ body{
 .mao {
 	margin-top: 50px; 
 	border: #CCC;
+	border-radius: 15px;
 	width: 600px;
 	height: auto; 
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
 	color: white;
-	border-radius: 2px;
 	display: inline-block;
 	background-color: #663300;
 }
@@ -162,13 +162,13 @@ body{
 .jesper {
 	margin-top: 50px; 
 	border: #CCC;
+	border-radius: 15px;
 	width: 600px;
 	height: auto; 
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
 	color: white;
-	border-radius: 2px;
 	display: inline-block;
 	background-color: #663300;
 }
@@ -176,13 +176,13 @@ body{
 .laffy {
 	margin-top: 50px; 
 	border: #CCC;
+	border-radius: 15px;
 	width: 600px;
 	height: auto; 
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
 	color: white;
-	border-radius: 2px;
 	display: inline-block;
 	background-color: #663300;
 }
@@ -190,13 +190,13 @@ body{
 .andreas {
 	margin-top: 50px; 
 	border: #CCC;
+	border-radius: 15px;
 	width: 600px;
 	height: auto; 
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
 	color: white;
-	border-radius: 2px;
 	display: inline-block;
 	background-color: #663300;
 }
@@ -204,13 +204,13 @@ body{
 .Glenn {
 	margin-top: 50px; 
 	border: #CCC;
+	border-radius: 15px;
 	width: 600px;
 	height: auto; 
 	margin-left: 500px; 
 	font-family: arial;
 	font-size: 25px;
 	color: white;
-	border-radius: 2px;
 	display: inline-block;
 	background-color: #663300;
 }
